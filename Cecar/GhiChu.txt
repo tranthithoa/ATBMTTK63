@@ -1,0 +1,17 @@
+﻿Demo cho thuat toan Cecar
+
+Mã hóa thông tin
+- Input: 
++ Dữ liệu cần mã
++ Hệ số k
++ Bảng chữ cái
+- Output:
++ Dữ liệu đã được mã hóa
+
+Giải mã thông tin
+- Input:
++ Dữ liệu đã được mã hóa
++ Hệ số k
++ Bảng chữ cái
+- Output
++ Dữ liệu đã được giải mã

@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\bin\Debug\CecarFileEncrypt.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\bin\Debug\CecarFileEncrypt.pdb
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\obj\Debug\CecarFileEncrypt.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\obj\Debug\CecarFileEncrypt.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\obj\Debug\CecarFileEncrypt.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\obj\Debug\CecarFileEncrypt.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\obj\Debug\CecarFileEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\obj\Debug\CecarFileEncrypt.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\CecarFileEncrypt\obj\Debug\CecarFileEncrypt.pdb

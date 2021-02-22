@@ -1,0 +1,17 @@
+﻿Chương trình này dùng để mã hóa tệp tin có kích thước nhỏ
+
+Chức năng Mã hóa
+- Input:
++ Đường dẫn của tệp tin cần mã hóa
++ Hệ số K
++ Bảng chữ cái
+- Output:
++ Tệp tin đã được mã hóa
+
+Chức năng giải mã
+- Input:
++ Đường dẫn tệp tin cần giải mã
++ Hệ số K
++ Bảng chữ cái
+- Output:
++ Tệp tin đã được giải mã

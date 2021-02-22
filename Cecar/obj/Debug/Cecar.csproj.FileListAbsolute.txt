@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\obj\Debug\Cecar.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\obj\Debug\Cecar.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\obj\Debug\Cecar.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\obj\Debug\Cecar.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\obj\Debug\Cecar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\bin\Debug\Cecar.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\bin\Debug\Cecar.pdb
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\obj\Debug\Cecar.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\Cecar\obj\Debug\Cecar.pdb
