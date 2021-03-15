@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
@@ -40,8 +41,39 @@ namespace CecarFileEncrypt
 
         private void btThucHien_Click(object sender, EventArgs e)
         {
-            // Mã hóa tệp tin theo thuật toán mã hóa Cecar thì thực hiện theo phương án nào?
-
+            if(String.IsNullOrEmpty(tbDuongDan.Text))
+            {
+                MessageBox.Show("Bạn phải chọn tệp tin cần mã hóa hoặc giải mã");
+                return;
+            }    
+            if(!File.Exists(tbDuongDan.Text))
+            {
+                MessageBox.Show("Không tìm thấy tệp tin bạn yêu cầu");
+                return;
+            }
+            CecarFileHelper ch = new CecarFileHelper();
+            Random rd = new Random();
+            ch.K = (byte)rd.Next(0, 255);
+            byte[] tmp;
+            if(rbMaHoa.Checked)
+                tmp = ch.Encrypt(tbDuongDan.Text);
+            else
+                tmp = ch.Decrypt(tbDuongDan.Text);
+            if (tmp == null)
+            {
+                MessageBox.Show("Tệp tin rỗng!");
+                return;
+            }    
+            else
+            {
+                SaveFileDialog sd = new SaveFileDialog();
+                String ext = Path.GetExtension(tbDuongDan.Text);
+                sd.Filter = ext + " files (*" + ext + ") | " + ext;
+                if(sd.ShowDialog() == DialogResult.OK)
+                {
+                    File.WriteAllBytes(sd.FileName, tmp);
+                }    
+            }    
         }
     }
 }

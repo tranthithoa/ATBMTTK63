@@ -15,3 +15,8 @@ Chức năng giải mã
 + Bảng chữ cái
 - Output:
 + Tệp tin đã được giải mã
+
+15/3/21: Mã hóa đơn bảng
+Tư tưởng: Từ bảng chữ cái ta sẽ tạo ra một dãy khóa là một hoán vị ngẫu nhiên của bảng chữ
+cái
+Việc mã hóa hay giải mã là việc tra cứu từ bảng chữ cái sang khóa và ngược lại

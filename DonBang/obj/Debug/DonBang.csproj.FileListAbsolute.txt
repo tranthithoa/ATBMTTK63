@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\bin\Debug\DonBang.exe.config
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\bin\Debug\DonBang.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\bin\Debug\DonBang.pdb
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\obj\Debug\DonBang.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\obj\Debug\DonBang.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\obj\Debug\DonBang.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\obj\Debug\DonBang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\obj\Debug\DonBang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\obj\Debug\DonBang.exe
+C:\Users\Admin\source\repos\ATBMTT_K63\DonBang\obj\Debug\DonBang.pdb
